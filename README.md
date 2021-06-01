@@ -4,4 +4,7 @@
 [Code and Data](https://github.com/webis-de/acl21-counter-argument-generation-by-attacking-weak-premises)
 
 ### Generating Informative Conclusions for Argumentative Texts
-[Code and Data](https://github.com/webis-de/acl21-informative-conclusion-generation) 
+[Code and Data](https://github.com/webis-de/acl21-informative-conclusion-generation)
+
+### Employing Argumentation Knowledge Graphs for Neural Argument Generation
+[Code and Data](https://github.com/webis-de/acl21-ArgKG-argument-generation) 
